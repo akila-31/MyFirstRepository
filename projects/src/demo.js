@@ -2,7 +2,7 @@ import React from 'react'
 
 function Demo() {
   return (
-    <div>Akila</div>
+    <div>Pooja nanjun</div>
     
   )
 }
