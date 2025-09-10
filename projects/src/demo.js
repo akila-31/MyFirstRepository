@@ -1,9 +1,10 @@
 import React from 'react'
 
-function demo() {
+function Demo() {
   return (
     <div>Akila</div>
+    
   )
 }
 
-export default demo
+export default Demo
